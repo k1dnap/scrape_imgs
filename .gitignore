@@ -1,0 +1,5 @@
+.vscode
+data/temp.json
+data/products.json
+node_modules
+screenshots

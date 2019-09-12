@@ -1,0 +1,16 @@
+{
+	"canvas_settings":{
+		"height": 100,
+		"width": 100
+	},
+	"list_of_categories" : [
+		"Chairs",
+		"Stools",
+		"Tables",
+		"Consoles",
+		"Sideboards and wall units",
+		"Bedroom furniture",
+		"Beds",
+		"Occasional furniture"
+	]
+}
