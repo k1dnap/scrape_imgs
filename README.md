@@ -1,4 +1,4 @@
-#scrape imgs
+#scrape products images from www.calligaris.com
 
 - unpack archive
 - be sure to have nodejs installed
